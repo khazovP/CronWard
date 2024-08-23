@@ -1,0 +1,14 @@
+1. Django==5.1
+2. django-compressor==4.5.1
+3. django-stubs-ext==5.0.4
+4. fido2==1.1.3
+5. pycurl==7.45.2
+6. psycopg2==2.9.9
+7. pydantic==2.8.2
+8. pyotp==2.9.0
+9. aiosmtpd==1.4.6
+10. cronsim==2.5
+11. oncalendar==1.1
+12. segno==1.6.1
+13. statsd==4.0.1
+14. whitenoise==6.7.0
